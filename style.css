@@ -1,0 +1,15 @@
+.image {
+  width: 400px;
+  height: 400px;
+}
+
+div,
+h1 {
+  text-align: center;
+  margin: auto;
+}
+
+.OzonLogo {
+  width: 20px;
+  vertical-align: middle;
+}
